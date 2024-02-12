@@ -464,7 +464,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: d04f0e7d8f3582b49b10b703ec56a48e, type: 2}
+    - {fileID: 11400000, guid: cf48cee0cd07a614dbb397948454e25a, type: 2}
 --- !u!114 &57340847
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -776,8 +776,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: ee9aff050cd1fdb4d8f876605d8b27f1, type: 2}
 --- !u!114 &149597482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1297,7 +1298,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: d04f0e7d8f3582b49b10b703ec56a48e, type: 2}
+    - {fileID: 11400000, guid: cf48cee0cd07a614dbb397948454e25a, type: 2}
 --- !u!114 &607175974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1887,7 +1888,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 04dad81cc90a1414b903fadff87d1e79, type: 2}
+    - {fileID: 11400000, guid: b8249154c95a71d4b9572084d7b9f7d3, type: 2}
 --- !u!114 &1140934758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1940,8 +1941,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1.1111112}
-    newSize: {x: 1.54, y: 1.21}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 2.23, y: 2.23}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2017,12 +2018,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1413294825, guid: 99a24620d31e5ce4e823c32d11e17c2c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 61259ff5e68ed9c408bd3ea5e451c7a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.54, y: 1.21}
+  m_Size: {x: 2.23, y: 2.23}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2980,8 +2981,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 718d3306f676e6442a198582ecad6805, type: 2}
 --- !u!114 &2042566747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3127,8 +3129,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 111df65b204709c4dbef5c6f603c4f53, type: 2}
 --- !u!114 &2092248419
 MonoBehaviour:
   m_ObjectHideFlags: 0
